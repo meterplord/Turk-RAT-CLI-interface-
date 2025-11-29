@@ -35,7 +35,7 @@ class Lang:
 
 Uyarı: Bu toolu kullanırken lütfen illegal yerlerde kullanmayınız ve sorumluluk kabul etmiyorum
                          github: https://github.com/meterplord/
-                                Developer: meterplord
+                                Developed by meterplord
 
 0) Çıkış""",
             "payload_menu": "═══════ PAYLOAD SEÇİMİ ═══════\n1) Linux Payload\n2) Windows Payload\n0) Geri",
