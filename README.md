@@ -27,10 +27,10 @@
 - WSL desteği vardır
 
 **Kullanımı**
-  python -m venv venv
-  source venv/bin/activate
-  pip install -r requerements.txt
-  python3 main_menu.py
+  python -m venv venv,  
+  source venv/bin/activate,  
+  pip install -r requerements.txt,  
+  python3 main_menu.py,  
 **İyi şanslar**
 
 
@@ -63,8 +63,8 @@
 - There is WSL support
 
 **Usage**
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python3 main_menu.py
+python -m venv venv,  
+source venv/bin/activate,  
+pip install -r requirements.txt,  
+python3 main_menu.py,  
 **Good luck**
