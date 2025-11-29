@@ -27,6 +27,7 @@
 - WSL desteği vardır
 
 **Kullanımı**  
+  cd Turk-RAT-CLI-interface-,  
   python -m venv venv,  
   source venv/bin/activate,  
   pip install -r requerements.txt,  
@@ -63,6 +64,7 @@
 - There is WSL support
 
 **Usage**  
+cd Turk-RAT-CLI-interface-,  
 python -m venv venv,  
 source venv/bin/activate,  
 pip install -r requirements.txt,  
