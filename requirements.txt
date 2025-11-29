@@ -1,0 +1,8 @@
+colorama
+Pillow
+PySide6
+pyinstaller
+instaloader
+requests
+rich
+tk
