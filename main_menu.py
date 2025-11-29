@@ -29,8 +29,8 @@ class Lang:
             "enter_choice": "Seçim yap → [1-4]: ",
             "main_menu": """
 1) Turk-RAT (RAT Tools)
-2) OSINT Tools
-3) Phishing Tools
+2) OSINT Tools(Beta)
+3) Phishing Tools(Beta)
 4) EXE Binder
 
 Uyarı: Bu toolu kullanırken lütfen illegal yerlerde kullanmayınız ve sorumluluk kabul etmiyorum
