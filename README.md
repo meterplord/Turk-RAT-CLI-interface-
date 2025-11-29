@@ -24,6 +24,15 @@
 - Cross-platform EXE Binder (linux + windows)
 - OSINT (Foto EXIF, Instagram profil, kullanıcı tarama)
 - Türkçe & İngilizce dil desteği
+- WSL desteği vardır
+**Kullanımı**
+  python -m venv venv
+  source venv/bin/activate
+  pip install -r requerements.txt
+  python3 main_menu.py
+**İyi şanslar**
+
+
 
 **Made in Turkey. Completely silent. Fully controlled.**
 
@@ -50,3 +59,11 @@
 - Cross-platform EXE Binder (Linux + Windows)
 - OSINT (Photo EXIF, Instagram profile, user scanning)
 - Turkish & English language support
+- There is WSL support
+
+**Usage**
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python3 main_menu.py
+**Good luck**
