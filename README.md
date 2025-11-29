@@ -20,7 +20,7 @@
 - Windows + Linux hedef desteği
 
 ### Diğer Araçlar
-- 18+ phishing template (Cloudflare Tunnel)
+- 12 phishing template (Cloudflare Tunnel)
 - Cross-platform EXE Binder (linux + windows)
 - OSINT (Foto EXIF, Instagram profil, kullanıcı tarama)
 - Türkçe & İngilizce dil desteği
@@ -46,7 +46,7 @@
 - Windows + Linux target support
 
 ### Other Tools
-- 18+ phishing template (Cloudflare Tunnel)
+- 12 phishing template (Cloudflare Tunnel)
 - Cross-platform EXE Binder (Linux + Windows)
 - OSINT (Photo EXIF, Instagram profile, user scanning)
 - Turkish & English language support
