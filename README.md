@@ -25,7 +25,8 @@
 - OSINT (Foto EXIF, Instagram profil, kullanıcı tarama)
 - Türkçe & İngilizce dil desteği
 - WSL desteği vardır
-**Kullanımı**
+
+  **Kullanımı**
   python -m venv venv
   source venv/bin/activate
   pip install -r requerements.txt
