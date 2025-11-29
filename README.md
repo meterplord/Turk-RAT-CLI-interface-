@@ -26,7 +26,7 @@
 - Türkçe & İngilizce dil desteği
 - WSL desteği vardır
 
-**Kullanımı**
+**Kullanımı**  
   python -m venv venv,  
   source venv/bin/activate,  
   pip install -r requerements.txt,  
@@ -62,7 +62,7 @@
 - Turkish & English language support
 - There is WSL support
 
-**Usage**
+**Usage**  
 python -m venv venv,  
 source venv/bin/activate,  
 pip install -r requirements.txt,  
