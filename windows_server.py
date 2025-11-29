@@ -11,7 +11,7 @@ import json
 import os
 import time
 from rich.text import Text
-import cv2
+#import cv2
 import logging
 from datetime import datetime
 from rich.console import Console
