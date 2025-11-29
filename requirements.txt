@@ -1,8 +1,10 @@
 colorama
 Pillow
 PySide6
+pyaudio
 pyinstaller
 instaloader
 requests
 rich
+
 tk
